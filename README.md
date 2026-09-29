@@ -11,7 +11,7 @@ I work with
 
 Projects
 - **Wasafi Livewear**: Android e-commerce app (men's, women's, accessories) with an admin module and payments. 
-- - **Perfume Refill Sales Tracker**: web app for a perfume refill business with owner/staff logins, sales, stock and low-stock alerts, expense tracking and reports. Built with HTML, CSS and vanilla JavaScript, with data stored in the browser and JSON backup/export. In the final stages
+- - **[Perfume Refill Sales Tracker](https://github.com/markwaithaka93-sys/perfume-refill-sales-tracker)**: web app for a perfume refill business with sales, stock and expense tracking. Built with HTML, CSS and vanilla JavaScript. [Live demo](https://markwaithaka93-sys.github.io/perfume-refill-sales-tracker/)
   - 
 
 ## Get in touch
